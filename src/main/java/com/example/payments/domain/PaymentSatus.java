@@ -1,4 +1,3 @@
 package com.example.payments.domain;
 
-public enum PaymentSatus {
-}
+public enum PaymentSatus {PENDING, COMPLETED, FAILED}
